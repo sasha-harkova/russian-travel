@@ -1,0 +1,17 @@
+@keyframes link-opacity {
+  from {
+    opacity: 100%;
+  }
+  to {
+    opacity: 80%;
+  }
+}
+
+@keyframes cover-opacity {
+  from {
+    background-color: rgb(42, 44, 47, 0.3);
+  }
+  to {
+    background-color: rgb(42, 44, 47, 0.7);
+  }
+} 

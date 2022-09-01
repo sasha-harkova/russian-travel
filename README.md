@@ -1,23 +1,22 @@
-# Проект: Путешествие по России
+# Project: "Travel in Russia"
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+One-page website about the most beatiful places in Russia and interesting facts about them.
+Has recommendation content:  **what you need to see in Russia**.
 
-**Интро**
+Here were used:
+* grid layout;
+* flexbox layout;
+* adaptive layout;
+* positioning properties;
+* BEM technology;
+* animations;
+* etc
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Link to the Figma layout](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+**GitHub**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+* [Link to the Figma layout](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
