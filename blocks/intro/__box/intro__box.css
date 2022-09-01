@@ -1,6 +1,6 @@
 .intro__box {
   max-width: 690px;
-  height: auto;  
+  height: auto;
 }
 
 @media screen and (min-width: 321px) and (max-width: 928px) {

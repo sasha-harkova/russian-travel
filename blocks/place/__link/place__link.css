@@ -6,5 +6,5 @@
 }
 
 .place__link:hover {
-  animation: link-opacity .8s ease forwards; 
+  animation: link-opacity .8s ease forwards;
 }
