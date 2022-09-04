@@ -3,7 +3,7 @@
   height: auto;
 }
 
-@media screen and (min-width: 321px) and (max-width: 928px) {
+@media screen and (max-width: 965px) {
   .intro__box {
     padding: 0 24px;
     max-width: 720px;

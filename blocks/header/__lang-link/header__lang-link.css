@@ -1,13 +1,14 @@
 .header__lang-link {
   text-decoration: none;
-  font-style:  normal;
+  font-weight: 400;
   font-size: 24px;
   line-height: 28px;
   color: #FFFFFF;
 }
 
 .header__lang-link:hover {
-  animation: link-opacity .8s ease forwards;
+  transition: opacity .8s ease;
+  opacity: .8;
 }
 
 @media screen and (max-width: 320px) {

@@ -2,13 +2,13 @@
   grid-area: place__title;
   font-size: 72px;
   line-height: 76px;
-  font-style: bold;
+  font-weight: 900;
   margin: 0;
   vertical-align: bottom;
 }
 
-@media screen and (min-width: 321px) and (max-width: 768px) {
-  .place__title { 
+@media screen and (max-width: 768px) {
+  .place__title {
     font-size: 42px;
     line-height: 46px;
     margin-right: 14.5px;
@@ -16,7 +16,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .place__title { 
+  .place__title {
     font-size: 32px;
     line-height: 35px;
     margin: 0 16px;

@@ -1,13 +1,14 @@
 .footer__link {
   color: #FFFFFF;
   text-decoration: none;
-  font-style: normal;
+  font-weight: 400;
   font-size: 16px;
   line-height: 18px;
 }
 
 .footer__link:hover {
-  animation: link-opacity .8s ease forwards;
+  transition: opacity .8s ease;
+  opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
