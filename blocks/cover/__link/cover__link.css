@@ -1,5 +1,5 @@
 .cover__link {
-  width: 1184px;
+  max-width: 1184px;
   min-height: 740px;
   margin: 0 auto;
   color: #FFFFFF;
@@ -22,9 +22,9 @@
   left: 0;
 }
 
-.cover__link:hover:after {
+ .cover__link:hover:after {
   transition: background-color .5s ease;
-  background-color: rgb(42, 44, 47, .7);
+  background-color: rgb(42, 44, 47, .8);
 }
 
 
